@@ -1,0 +1,12 @@
+br\com\robson\webservice\resources\filters\AuthenticationFilter.class
+br\com\robson\webservice\service\UsuarioService.class
+br\com\robson\webservice\domain\Imovel.class
+br\com\robson\webservice\dao\JPAUtil.class
+br\com\robson\webservice\domain\ErrorMessage.class
+br\com\robson\webservice\resources\filters\AcessoRestrito.class
+br\com\robson\webservice\resources\ImovelResource.class
+br\com\robson\webservice\dao\UsuarioDAO.class
+br\com\robson\webservice\domain\Direcionamento.class
+br\com\robson\webservice\service\ImovelService.class
+br\com\robson\webservice\dao\ImovelDAO.class
+br\com\robson\webservice\domain\Usuario.class

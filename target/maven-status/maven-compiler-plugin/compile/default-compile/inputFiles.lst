@@ -1,0 +1,12 @@
+C:\Users\Robson\Videos\Jersey api basic auth\src-curso\autenticacao-ws-restful - inicial\src\main\java\br\com\devmedia\webservice\dao\JPAUtil.java
+C:\Users\Robson\Videos\Jersey api basic auth\src-curso\autenticacao-ws-restful - inicial\src\main\java\br\com\devmedia\webservice\dao\UsuarioDAO.java
+C:\Users\Robson\Videos\Jersey api basic auth\src-curso\autenticacao-ws-restful - inicial\src\main\java\br\com\devmedia\webservice\dao\ImovelDAO.java
+C:\Users\Robson\Videos\Jersey api basic auth\src-curso\autenticacao-ws-restful - inicial\src\main\java\br\com\devmedia\webservice\resources\filters\AuthenticationFilter.java
+C:\Users\Robson\Videos\Jersey api basic auth\src-curso\autenticacao-ws-restful - inicial\src\main\java\br\com\devmedia\webservice\service\ImovelService.java
+C:\Users\Robson\Videos\Jersey api basic auth\src-curso\autenticacao-ws-restful - inicial\src\main\java\br\com\devmedia\webservice\service\UsuarioService.java
+C:\Users\Robson\Videos\Jersey api basic auth\src-curso\autenticacao-ws-restful - inicial\src\main\java\br\com\devmedia\webservice\domain\ErrorMessage.java
+C:\Users\Robson\Videos\Jersey api basic auth\src-curso\autenticacao-ws-restful - inicial\src\main\java\br\com\devmedia\webservice\domain\Imovel.java
+C:\Users\Robson\Videos\Jersey api basic auth\src-curso\autenticacao-ws-restful - inicial\src\main\java\br\com\devmedia\webservice\domain\Direcionamento.java
+C:\Users\Robson\Videos\Jersey api basic auth\src-curso\autenticacao-ws-restful - inicial\src\main\java\br\com\devmedia\webservice\resources\ImovelResource.java
+C:\Users\Robson\Videos\Jersey api basic auth\src-curso\autenticacao-ws-restful - inicial\src\main\java\br\com\devmedia\webservice\domain\Usuario.java
+C:\Users\Robson\Videos\Jersey api basic auth\src-curso\autenticacao-ws-restful - inicial\src\main\java\br\com\devmedia\webservice\resources\filters\AcessoRestrito.java

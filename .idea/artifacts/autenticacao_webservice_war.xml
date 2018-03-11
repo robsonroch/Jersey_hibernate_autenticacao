@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="autenticacao-webservice:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="autenticacao-webservice-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="autenticacao-webservice:war exploded" />
+    </root>
+  </artifact>
+</component>
